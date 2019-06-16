@@ -1,0 +1,169 @@
+{
+  "posts": [
+    {
+      "items": [
+        {
+          "id": 8514,
+          "name": "rails",
+          "url": "https://api.github.com/repos/rails/rails"
+        },
+        {
+          "id": 7569578,
+          "name": "discourse",
+          "url": "https://api.github.com/repos/discourse/discourse"
+        },
+        {
+          "id": 2500088,
+          "name": "gitlabhq",
+          "url": "https://api.github.com/repos/gitlabhq/gitlabhq"
+        },
+        {
+          "id": 308770,
+          "name": "devise",
+          "url": "https://api.github.com/repos/plataformatec/devise"
+        },
+        {
+          "id": 911765,
+          "name": "diaspora",
+          "url": "https://api.github.com/repos/diaspora/diaspora"
+        },
+        {
+          "id": 3314,
+          "name": "spree",
+          "url": "https://api.github.com/repos/spree/spree"
+        },
+        {
+          "id": 611921,
+          "name": "activeadmin",
+          "url": "https://api.github.com/repos/activeadmin/activeadmin"
+        },
+        {
+          "id": 1333863,
+          "name": "kaminari",
+          "url": "https://api.github.com/repos/kaminari/kaminari"
+        },
+        {
+          "id": 451035,
+          "name": "simple_form",
+          "url": "https://api.github.com/repos/plataformatec/simple_form"
+        },
+        {
+          "id": 21829,
+          "name": "factory_bot",
+          "url": "https://api.github.com/repos/thoughtbot/factory_bot"
+        },
+        {
+          "id": 11667865,
+          "name": "react-rails",
+          "url": "https://api.github.com/repos/reactjs/react-rails"
+        },
+        {
+          "id": 211588,
+          "name": "paper_trail",
+          "url": "https://api.github.com/repos/paper-trail-gem/paper_trail"
+        },
+        {
+          "id": 865250,
+          "name": "brakeman",
+          "url": "https://api.github.com/repos/presidentbeef/brakeman"
+        },
+        {
+          "id": 1021040,
+          "name": "mailcatcher",
+          "url": "https://api.github.com/repos/sj26/mailcatcher"
+        },
+        {
+          "id": 33739333,
+          "name": "administrate",
+          "url": "https://api.github.com/repos/thoughtbot/administrate"
+        },
+        {
+          "id": 30337170,
+          "name": "graphql-ruby",
+          "url": "https://api.github.com/repos/rmosolgo/graphql-ruby"
+        },
+        {
+          "id": 839336,
+          "name": "simplecov",
+          "url": "https://api.github.com/repos/colszowka/simplecov"
+        },
+        {
+          "id": 76692542,
+          "name": "octobox",
+          "url": "https://api.github.com/repos/octobox/octobox"
+        },
+        {
+          "id": 212862,
+          "name": "refinerycms",
+          "url": "https://api.github.com/repos/refinery/refinerycms"
+        },
+        {
+          "id": 1462,
+          "name": "annotate_models",
+          "url": "https://api.github.com/repos/ctran/annotate_models"
+        },
+        {
+          "id": 56125,
+          "name": "clearance",
+          "url": "https://api.github.com/repos/thoughtbot/clearance"
+        },
+        {
+          "id": 72991,
+          "name": "timecop",
+          "url": "https://api.github.com/repos/travisjeffery/timecop"
+        },
+        {
+          "id": 1421024,
+          "name": "public_activity",
+          "url": "https://api.github.com/repos/chaps-io/public_activity"
+        },
+        {
+          "id": 1172597,
+          "name": "shoulda-matchers",
+          "url": "https://api.github.com/repos/thoughtbot/shoulda-matchers"
+        },
+        {
+          "id": 30985840,
+          "name": "solidus",
+          "url": "https://api.github.com/repos/solidusio/solidus"
+        },
+        {
+          "id": 1122534,
+          "name": "comfortable-mexican-sofa",
+          "url": "https://api.github.com/repos/comfy/comfortable-mexican-sofa"
+        },
+        {
+          "id": 14238949,
+          "name": "elasticsearch-rails",
+          "url": "https://api.github.com/repos/elastic/elasticsearch-rails"
+        },
+        {
+          "id": 1307476,
+          "name": "sorcery",
+          "url": "https://api.github.com/repos/NoamB/sorcery"
+        },
+        {
+          "id": 33866783,
+          "name": "Portus",
+          "url": "https://api.github.com/repos/SUSE/Portus"
+        },
+        {
+          "id": 3468618,
+          "name": "oj",
+          "url": "https://api.github.com/repos/ohler55/oj"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
