@@ -1,6 +1,6 @@
 import React from 'react'
 
-const exportDB=(hook)=>{
+const ExportDB=(hook)=>{
     return (
         <div>
             <button onClick={()=>{exporttodb(hook)}}>
@@ -36,7 +36,7 @@ const exporttodb=hook=>{
     })
 }
 
-export default exportDB
+export default ExportDB
 
 /*
 {

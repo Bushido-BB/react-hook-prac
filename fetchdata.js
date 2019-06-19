@@ -1,6 +1,6 @@
 import React from 'react'
 
-const fetchData=(hook)=>{
+const FetchData=(hook)=>{
     return (
         <div>
             <button onClick={()=>{fetchfromdb(hook)}}>
@@ -19,4 +19,4 @@ const fetchfromdb=(hook)=>{
     })
 }
 
-export default fetchData
+export default FetchData
